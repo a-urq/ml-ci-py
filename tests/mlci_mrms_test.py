@@ -144,7 +144,9 @@ def make_mlci_mrms_plot(dt: datetime, img_name: str):
     plt.tight_layout()
     plt.savefig(img_name)
 
+    print("Done!")
 
-testing_dt = datetime(2025, 4, 17, 21, 00)
 
-make_mlci_mrms_plot(testing_dt, f"tests/mlci-mrms-output.png")
+testing_dt = datetime(2023, 4, 19, 22, 00)
+
+make_mlci_mrms_plot(testing_dt, f"mlci-mrms-output.png")
