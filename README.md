@@ -6,7 +6,7 @@ A machine learning model made to predict the probability of convective initiatio
 ##### ***Ricky Cavaliero**, University of Oklahoma School of Meteorology*
 ##### ***Dr. Eric Loken**, National Severe Storms Laboratory / Cooperative Institute for Severe and High-Impact Weather Research and Operations*
 
-# Self-hosted Paper
+# Self-published Paper
 A research paper detailing the creation and verification statistics of ML-CI version 1 has been uploaded to this repository under the filename "ML-CI Research Paper.pdf". It is available [here](https://github.com/a-urq/ml_ci_py/blob/main/ML-CI%20Research%20Paper.pdf). It is important to note that this paper is solely self-published and has not gone through peer review as of this time.
 
 # How to Use
