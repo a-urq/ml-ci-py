@@ -56,3 +56,7 @@ ci_probs = ml_ci.compute_probabilities(
 <img width="1200" height="400" alt="multipanel-verif-2" src="https://github.com/user-attachments/assets/7a539e75-fca1-4754-a479-f94b7386a6d6" />
 
 The model has a strong tendency to overestimate the probability of CI above 20%, and this must be accounted for in any operational use of this model. A modeled probability region of 100% will only produce a storm about 27% of the time. A general false alarm rate of 80% can be expected. However, despite these flaws, the model is able to skillfully distinguish between the conditions that prohibit convective initiation and the conditions that allow it. While false positives are a serious probalem with the current version of this model, false negatives are much rarer. Work is planned to continue in improving this model throughout the coming months.
+
+# Temporary Image
+<img width="1100" height="850" alt="ci-probs_2023-04-19 22:00:00" src="https://github.com/user-attachments/assets/49c8fe7c-239f-48fc-9195-8005de720e32" />
+
