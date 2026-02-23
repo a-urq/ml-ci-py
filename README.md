@@ -59,4 +59,7 @@ The model has a strong tendency to overestimate the probability of CI above 20%,
 
 # Temporary Image
 <img width="1100" height="850" alt="ci-probs_2023-04-19 22:00:00" src="https://github.com/user-attachments/assets/49c8fe7c-239f-48fc-9195-8005de720e32" />
+<img width="1100" height="850" alt="ci-probs_2023-04-19 22:00:00" src="https://github.com/user-attachments/assets/c8d153b8-5935-4d1c-a82f-781af6fa2494" />
+<img width="1100" height="850" alt="ci-probs_2023-04-19 22:00:00" src="https://github.com/user-attachments/assets/9f04b14f-97f5-49a9-9c09-885cc41dd44d" />
+
 
